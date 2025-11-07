@@ -11,3 +11,5 @@ public class Inventory {
         return res;
     }
 }
+
+git commit -m "Esto es una clase Java Inventory que gestiona un catálogo de materiales usando un Map, permitiendo añadirlos, buscarlos y listarlos (todos o solo los disponibles)."
