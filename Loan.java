@@ -46,3 +46,5 @@ public class Loan {
             material.getId(), borrower, loanDate, dueDate, (returnDate==null?"<no>":returnDate.toString()));
     }
 }
+
+git commit -m "Esto es una clase Java Loan que representa un préstamo de material bibliotecario, gestionando fechas de préstamo, vencimiento, devolución y cálculo de multas por retraso."
