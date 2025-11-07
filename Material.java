@@ -12,3 +12,5 @@ public abstract class Material {
     @Override
     public String toString() { return String.format("%s - %s [%s]", id, title, available ? "Disponible" : "Prestado"); }
 }
+
+git commit -m "Esto es una clase abstracta Material que define la estructura base para todos los materiales de la biblioteca, con propiedades comunes como ID, título, disponibilidad y métodos obligatorios como obtener el tipo."
