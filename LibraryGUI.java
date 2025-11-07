@@ -137,3 +137,5 @@ public class LibraryGUI extends JFrame {
         }
     }
 }
+
+git commit -m "Esta es la interfaz gráfica principal de un sistema de biblioteca que permite gestionar inventario, préstamos, devoluciones y calcular multas."
